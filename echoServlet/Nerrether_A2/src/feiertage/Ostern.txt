@@ -1,0 +1,9 @@
+-48;Rosenmontag
+-46;Aschermittwoch
+-3;Gruendonnerstag
+-2;Karfreitag
+1;Ostermontag
+39;ChristiHimmelfahrt
+49;Pfingstsonntag
+50;Pfingstmontag
+60;Fronleichnam

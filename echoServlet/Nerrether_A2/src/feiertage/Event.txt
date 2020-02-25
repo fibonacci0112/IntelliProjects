@@ -1,0 +1,19 @@
+1.1;Neujahr
+6.1;Heilige Drei Koenige
+1.5;Tag der Arbeit
+8.8;Augsburger Hohes Friedensfest
+15.8;Mariae Himmelfahrt
+3.10;Tag der Deutschen Einheit
+31.10;Reformationstag
+1.11;Allerheiligen
+6.12;Nikolaus
+24.12;Weihnachten
+25.12;1. Weihnachtstag
+26.12;2. Weihnachtstag
+31.12;Sylvester
+29.2;Schalttag
+29.2;Geburtstag Peter 
+3.6;Anne
+3.6;Erwin
+3.6;Herbert
+3.6;Horst
